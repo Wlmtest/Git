@@ -1,1 +1,5 @@
-.vagrant/machines/default/virtualbox/private_key
+!projects
+projects/*
+!projects/phpmyadmin
+.vagrant
+.DS_Store
